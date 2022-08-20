@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  Prework_Codepath
+//  prework
 //
 //  Created by Jessica on 8/20/22.
 //
